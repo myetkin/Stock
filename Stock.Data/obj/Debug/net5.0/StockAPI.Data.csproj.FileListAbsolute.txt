@@ -1,0 +1,15 @@
+C:\Users\YETKİN\Source\Repos\Stock.API\Stock.Data\bin\Debug\net5.0\Stock.Data.deps.json
+C:\Users\YETKİN\Source\Repos\Stock.API\Stock.Data\bin\Debug\net5.0\Stock.Data.runtimeconfig.json
+C:\Users\YETKİN\Source\Repos\Stock.API\Stock.Data\bin\Debug\net5.0\Stock.Data.runtimeconfig.dev.json
+C:\Users\YETKİN\Source\Repos\Stock.API\Stock.Data\bin\Debug\net5.0\Stock.Data.dll
+C:\Users\YETKİN\Source\Repos\Stock.API\Stock.Data\bin\Debug\net5.0\Stock.Data.pdb
+C:\Users\YETKİN\Source\Repos\Stock.API\Stock.Data\obj\Debug\net5.0\Stock.Data.csproj.AssemblyReference.cache
+C:\Users\YETKİN\Source\Repos\Stock.API\Stock.Data\obj\Debug\net5.0\Stock.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YETKİN\Source\Repos\Stock.API\Stock.Data\obj\Debug\net5.0\Stock.Data.AssemblyInfoInputs.cache
+C:\Users\YETKİN\Source\Repos\Stock.API\Stock.Data\obj\Debug\net5.0\Stock.Data.AssemblyInfo.cs
+C:\Users\YETKİN\Source\Repos\Stock.API\Stock.Data\obj\Debug\net5.0\Stock.Data.csproj.CoreCompileInputs.cache
+C:\Users\YETKİN\Source\Repos\Stock.API\Stock.Data\obj\Debug\net5.0\Stock.Data.dll
+C:\Users\YETKİN\Source\Repos\Stock.API\Stock.Data\obj\Debug\net5.0\refint\Stock.Data.dll
+C:\Users\YETKİN\Source\Repos\Stock.API\Stock.Data\obj\Debug\net5.0\Stock.Data.pdb
+C:\Users\YETKİN\Source\Repos\Stock.API\Stock.Data\obj\Debug\net5.0\Stock.Data.genruntimeconfig.cache
+C:\Users\YETKİN\Source\Repos\Stock.API\Stock.Data\obj\Debug\net5.0\ref\Stock.Data.dll

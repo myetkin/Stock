@@ -1,0 +1,10 @@
+services:
+  stock.api:
+    environment:
+    - ASPNETCORE_ENVIRONMENT=Development
+    - ASPNETCORE_URLS=http://+:80
+    ports:
+    - "5000:80"
+    volumes:
+    - ${HOME}/.microsoft/usersecrets/:/root/.microsoft/usersecrets
+    - ${HOME}/.aspnet/https:/root/.aspnet/https/

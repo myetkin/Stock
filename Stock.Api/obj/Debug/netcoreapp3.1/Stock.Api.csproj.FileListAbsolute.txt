@@ -1,0 +1,7 @@
+C:\Users\YETKİN\Source\Repos\Stock\Stock.Api\obj\Debug\netcoreapp3.1\Stock.Api.csproj.AssemblyReference.cache
+C:\Users\YETKİN\Source\Repos\Stock\Stock.Api\obj\Debug\netcoreapp3.1\Stock.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YETKİN\Source\Repos\Stock\Stock.Api\obj\Debug\netcoreapp3.1\Stock.Api.AssemblyInfoInputs.cache
+C:\Users\YETKİN\Source\Repos\Stock\Stock.Api\obj\Debug\netcoreapp3.1\Stock.Api.AssemblyInfo.cs
+C:\Users\YETKİN\Source\Repos\Stock\Stock.Api\obj\Debug\netcoreapp3.1\Stock.Api.csproj.CoreCompileInputs.cache
+C:\Users\YETKİN\Source\Repos\Stock\Stock.Api\obj\Debug\netcoreapp3.1\Stock.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YETKİN\Source\Repos\Stock\Stock.Api\obj\Debug\netcoreapp3.1\Stock.Api.MvcApplicationPartsAssemblyInfo.cache

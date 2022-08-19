@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">False</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\YETKİN\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.3.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\YETKİN\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_VisualStudio_Threading_Analyzers Condition=" '$(PkgMicrosoft_VisualStudio_Threading_Analyzers)' == '' ">C:\Users\YETKİN\.nuget\packages\microsoft.visualstudio.threading.analyzers\17.0.63</PkgMicrosoft_VisualStudio_Threading_Analyzers>
+    <PkgChinchilla_StateManagement Condition=" '$(PkgChinchilla_StateManagement)' == '' ">C:\Users\YETKİN\.nuget\packages\chinchilla.statemanagement\4.1.51.31</PkgChinchilla_StateManagement>
+    <PkgChinchilla_Logging Condition=" '$(PkgChinchilla_Logging)' == '' ">C:\Users\YETKİN\.nuget\packages\chinchilla.logging\4.1.124.102</PkgChinchilla_Logging>
+    <PkgCqrs Condition=" '$(PkgCqrs)' == '' ">C:\Users\YETKİN\.nuget\packages\cqrs\4.3.3.1240345038</PkgCqrs>
+  </PropertyGroup>
+</Project>
